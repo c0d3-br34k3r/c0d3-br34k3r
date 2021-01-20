@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello Everyone 👋
 
-<!--
-**TheInvincibleLearner/TheInvincibleLearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a neophite in Civil Engineering at **NIT Durgapur**.</br> 
+I specialise in frontend web development in **HTML**.</br>
 
-Here are some ideas to get you started:
+## Want To Get in Touch With Me ? :smiley:</br>
+🔭 Hit Me Up On [LinkedIn](https://www.linkedin.com/in/aritro-ghosh-246920201/)</br>
+:email: Send Me An [Email](mailto:aritroghosh4@gmail.com)</br>
+♟️ Or We Could Bond Over A Game Of [Chess](https://lichess.org/@/Invincible_Learner)</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![](https://komarev.com/ghpvc/?username=TheInvincibleLearner&color=green)
