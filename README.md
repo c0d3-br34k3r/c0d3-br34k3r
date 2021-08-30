@@ -1,6 +1,6 @@
 ## Hello Everyone 👋
 
-I am a neophite in Civil Engineering at **NIT Durgapur**.</br> 
+I am a sophomore in Civil Engineering at **NIT Durgapur**.</br> 
 I specialise in **Frontend Web Development**.</br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TheInvincibleLearner&theme=chartreuse-dark&show_icons=true&count_private=true)
