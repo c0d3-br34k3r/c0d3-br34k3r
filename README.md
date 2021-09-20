@@ -8,6 +8,7 @@
 <p align="center">Reach me at <b>aritroghosh4@gmail.com</b></p>
 
 <!-- <p align="center"> <a href="https://github.com/TheInvincibleLearner/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheInvincibleLearner" alt="TheInvincibleLearner"/></a> </p> -->
+  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TheInvincibleLearner&label=Profile%20views&color=green&style=flat" alt="TheInvincibleLearner" /> </p>
 
 <h3 align="center">Connect with me:</h3>
