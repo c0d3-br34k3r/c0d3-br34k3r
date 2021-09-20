@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> 
-<a href="https://www.linkedin.com/in/aritro-ghosh-246920201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aritro-ghosh-246920201" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/theinvinciblelearner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="theinvinciblelearner" height="30" width="40" /></a>
 <a href="https://instagram.com/the_invincible_learner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the_invincible_learner" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aspire_coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aspire_coder" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/the_invincible_learner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="the_invincible_learner" height="30" width="40" /></a>
