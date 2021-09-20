@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">Hi 👋, I'm Aritro Ghosh <br> A sophomore in Civil Engineering at NIT Durgapur</h1>
-<h3 align="center">A passionate Web developer and UI/UX designer from India.</h3>
+<h3 align="center">A passionate Full Stack Developer, C.P. Enthusiast and C.T.F Player from India.</h3>
   
 <p align="center"><b><a href=""></a></b></p>
 
